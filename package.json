@@ -2,9 +2,7 @@
   "name": "react-ui-tree-applivi",
   "version": "4.0.0",
   "description": "React tree component",
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
-  "types": "index.d.ts",
+  "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --port=8080",
     "build": "rollup -c",
