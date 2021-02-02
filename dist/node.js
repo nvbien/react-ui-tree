@@ -123,7 +123,7 @@ var UITreeNode = function (_Component) {
 
       var styles = {};
       var stylesFirst = {};
-      if (node.module == 'react-ui-tree') {
+      if (node.module == 'react-ui-tree-applivi') {
         stylesFirst = { visibility: 'hidden', height: 20 };
       }
 
